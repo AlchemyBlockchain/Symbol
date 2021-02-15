@@ -1,2 +1,2 @@
 # Symbol
-symbol for our BlackCubeAI Brand
+symbol for our BlackCubeAI brand
